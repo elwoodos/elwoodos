@@ -13,3 +13,7 @@ Branch=stable
 # Telegram Desktop
 [Flatpak Preinstall org.telegram.desktop]
 Branch=stable
+
+# Qalculate (GTK)
+[Flatpak Preinstall io.github.Qalculate]
+Branch=stable
