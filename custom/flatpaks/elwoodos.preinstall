@@ -1,0 +1,15 @@
+# CockpitClient 
+[Flatpak Preinstall org.cockpit_project.CockpitClient]
+Branch=stable
+
+# kdenLive
+[Flatpak Preinstall org.kde.kdenlive]
+Branch=stable
+
+# Mixxx 
+[Flatpak Preinstall org.mixxx.Mixxx]
+Branch=stable
+
+# Telegram Desktop
+[Flatpak Preinstall org.telegram.desktop]
+Branch=stable
