@@ -12,10 +12,10 @@
 # brew "azure-cli"      # Azure CLI
 
 # Programming languages and tools
-# brew "go"             # Go programming language
-# brew "node"           # Node.js
-# brew "python@3.12"    # Python
-# brew "rust"           # Rust programming language
+brew "go"             # Go programming language
+brew "node"           # Node.js
+brew "python@3.12"    # Python
+brew "rust"           # Rust programming language
 
 # Build tools
 # brew "cmake"          # Cross-platform build system
@@ -24,3 +24,4 @@
 # Debugging and profiling
 # brew "gdb"            # GNU debugger
 # brew "valgrind"       # Memory debugging tool
+
