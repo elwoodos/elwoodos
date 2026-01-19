@@ -20,3 +20,21 @@ brew "zoxide"     # Smarter cd command
 # Utilities
 brew "htop"       # Interactive process viewer
 brew "tmux"       # Terminal multiplexer
+
+# elwoodos additions: 
+brew "atuin"      # shell history
+brew "jj"         # better vcs
+brew "rage"       # encryption
+brew "xh"         # api discovery
+brew "dust"       # disk usage
+brew "gnu-units"  # units
+brew "dumbpipe"   # nc over iroh
+brew "sendme"     # file transfer over iroh
+brew "cosign"     # sign artifacts
+brew "minisign"   # sign anything
+brew "yazi"       # terminal file manager
+brew "zola"       # cms
+brew "uv"         # python essential
+brew "wormhole-william"   # easy file transfers 
+brew "gdu"        # fast disk space analysis
+brew "btop"       # system monitor 
