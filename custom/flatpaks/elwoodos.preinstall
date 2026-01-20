@@ -17,3 +17,7 @@ Branch=stable
 # Qalculate (GTK)
 [Flatpak Preinstall io.github.Qalculate]
 Branch=stable
+
+# Brave browser
+[Flatpak Preinstall com.brave.Browser]
+Branch=stable

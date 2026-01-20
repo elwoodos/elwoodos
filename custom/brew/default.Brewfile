@@ -38,3 +38,4 @@ brew "uv"         # python essential
 brew "wormhole-william"   # easy file transfers 
 brew "gdu"        # fast disk space analysis
 brew "btop"       # system monitor 
+brew "yt-dlp"     # downloader
