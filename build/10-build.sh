@@ -47,13 +47,16 @@ echo "::group:: Install Packages"
 # Example: dnf5 install -y tmux
 dnf5 install -y qalc \
 transmission \
+transmission-daemon \
+transmission-remote \
 xclock \
 zbar \
 wol \
 kitty \
 ddrescue \
 chromium \
-neovim 
+neovim \
+mpv
 
 # Example using COPR with isolated pattern:
 # copr_install_isolated "ublue-os/staging" package-name
