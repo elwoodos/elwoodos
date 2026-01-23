@@ -56,7 +56,8 @@ kitty \
 ddrescue \
 chromium \
 neovim \
-mpv
+mpv \
+GraphicsMagick
 
 # Example using COPR with isolated pattern:
 # copr_install_isolated "ublue-os/staging" package-name
