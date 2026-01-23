@@ -21,3 +21,25 @@ Branch=stable
 # Brave browser
 [Flatpak Preinstall com.brave.Browser]
 Branch=stable
+
+# LibreWolf 
+[Flatpak Preinstall io.gitlab.librewolf-community]
+Branch=stable
+
+# Foliate 
+[Flatpak Preinstall com.github.johnfactotum.Foliate]
+Branch=stable
+
+# Okular
+[Flatpak Preinstall org.kde.okular]
+Branch=stable
+
+# Reaper 
+[Flatpak Preinstall fm.reaper.Reaper]
+
+# Bitwig 
+[Flatpak Preinstall com.bitwig.BitwigStudio]
+
+# Gimp
+[Flatpak Preinstall org.gimp.GIMP]
+Branch=stable
